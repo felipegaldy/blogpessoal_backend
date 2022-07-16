@@ -39,7 +39,6 @@
 - [x] GET
 - [x] DELETE 
 
-
 ### Tecnologias
 
 - [Spring Boot]
