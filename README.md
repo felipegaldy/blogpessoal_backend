@@ -34,10 +34,10 @@
 <a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fblogpessoalgaldy.herokuapp.com%2Fswagger-ui%2Findex.html&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 ###  Funcionalidades
 
-- [x] POST
-- [x] PUT
-- [x] GET
-- [x] DELETE 
+- [x] Cadastrar usuario, postagem e tema.
+- [x] Editar usuario, postagem e tema.
+- [x] Buscar usuario, postagem e tema, por id e nome
+- [x] Deletar usuario, postagem e tema por id
 
 ### Tecnologias
 
